@@ -15,6 +15,9 @@ This Tampermonkey userscript changes all in-game fonts to a glowing Orbitron sty
 ---
 
 ## 🎮 Preview
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/6d862efb-0b7d-46a8-afaf-715fe9e83ac3" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/cb69dad3-5b52-4e75-a35b-94091a9d69af" />
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/708d93f8-4d9f-43f0-be60-8d89e5188772" />
 
 ---
 
