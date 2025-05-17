@@ -25,7 +25,7 @@ This Tampermonkey userscript changes all in-game fonts to a glowing Orbitron sty
 
 1. Install the [Tampermonkey extension](https://www.tampermonkey.net/) for your browser.
 2. Click the link below to install the script:  
-   👉 [Install from GitHub (coming soon)](https://github.com/yourname/narrowone-cyber-font-mod)
+   👉 [Install from GitHub](https://raw.githubusercontent.com/N1-wolfart/Narrow-one-cyberUI/main/cyber-font-mod.user.js)
 
 Or manually copy the script content from [`cyber-font-mod.user.js`](./cyber-font-mod.user.js) into a new Tampermonkey script.
 
